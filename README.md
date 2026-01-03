@@ -1,2 +1,1 @@
-# Simple-atm-simulator
-A lightweight ATM simulator using JavaScript switch statements and ternary operators for control flow.
+Simple ATM Logic This project simulates basic banking transactions (withdraw, deposit, check balance). It focuses on writing clean, efficient code using switch cases for routing and ternary operators for validation logic.
